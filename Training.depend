@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1500364976 source:c:\users\reynald\desktop\c++\training\main.cpp
+	<iostream>
+	"apples.h"
+
+1500364903 c:\users\reynald\desktop\c++\training\apples.h
+
+1500364865 source:c:\users\reynald\desktop\c++\training\apples.cpp
+	"apples.h"
+	<iostream>
+
