@@ -1,0 +1,5 @@
+﻿  DialogueTree.cpp
+c:\users\reynald\desktop\c++\dtree\dialoguetree.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\reynald\desktop\c++\dtree\dialoguetree.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\reynald\desktop\c++\dtree\dialoguetree.cpp(83): warning C4018: '>': signed/unsigned mismatch
+  Dtree.vcxproj -> C:\Users\Reynald\Desktop\C++\Dtree\Debug\Dtree.exe
