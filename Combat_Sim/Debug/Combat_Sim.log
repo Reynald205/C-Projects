@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\reynald\desktop\c++\combat_sim\main.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Combat_Sim.vcxproj -> C:\Users\Reynald\Desktop\C++\Combat_Sim\Debug\Combat_Sim.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\reynald\desktop\c++\commandfps\main.cpp(156): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\reynald\desktop\c++\commandfps\main.cpp(165): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reynald\desktop\c++\commandfps\main.cpp(212): error C2664: 'BOOL WriteConsoleOutputCharacterA(HANDLE,LPCSTR,DWORD,COORD,LPDWORD)': cannot convert argument 2 from 'wchar_t *' to 'LPCSTR'
+  c:\users\reynald\desktop\c++\commandfps\main.cpp(212): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast

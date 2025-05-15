@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  main.cpp
+c:\users\reynald\desktop\c++\consolerpg\main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleRPG.vcxproj -> C:\Users\Reynald\Desktop\C++\ConsoleRPG\Debug\ConsoleRPG.exe
