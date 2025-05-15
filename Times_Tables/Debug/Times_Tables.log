@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\reynald\desktop\c++\times_tables\main.cpp(20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Times_Tables.vcxproj -> C:\Users\Reynald\Desktop\C++\Times_Tables\Debug\Times_Tables.exe
