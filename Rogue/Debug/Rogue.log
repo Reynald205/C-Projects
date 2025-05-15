@@ -1,0 +1,6 @@
+﻿  Level.cpp
+c:\users\reynald\desktop\c++\rogue\level.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\reynald\desktop\c++\rogue\level.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\reynald\desktop\c++\rogue\level.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\reynald\desktop\c++\rogue\level.cpp(152): warning C4018: '<': signed/unsigned mismatch
+  Rogue.vcxproj -> C:\Users\Reynald\Desktop\C++\Rogue\Debug\Rogue.exe
