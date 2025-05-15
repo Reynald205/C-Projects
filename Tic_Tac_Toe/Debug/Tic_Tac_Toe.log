@@ -1,0 +1,4 @@
+﻿  Tic_board.cpp
+c:\users\reynald\desktop\c++\tic_tac_toe\tic_board.cpp(70): warning C4715: 'Tic_board::set_mark': not all control paths return a value
+c:\users\reynald\desktop\c++\tic_tac_toe\tic_board.cpp(119): warning C4715: 'Tic_board::check_win': not all control paths return a value
+  Tic_Tac_Toe.vcxproj -> C:\Users\Reynald\Desktop\C++\Tic_Tac_Toe\Debug\Tic_Tac_Toe.exe
